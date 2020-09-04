@@ -1,0 +1,49 @@
+Description du projet :
+  Nous avons choisi de faire un programme sur le tri de cartes proposé par Mr Bourlès. Ce projet fut introduit par un jeu 
+présenté lors du premier cours, le principe était de trier les cartes de la manière la plus rapide possible. Ainsi il fallait
+organiser les tâches entre les membres du groupe trouvé une méthode de tri avant de découvrir le paquet mélanger. 
+Tous les groupes présent n'avaient pas la même technique de tri, par exemple : en fonction de leurs couleurs, 
+en fonction de leurs valeurs ou bien de leurs signes. Nous devions aussi trouvé comment être le plus rapide dans notre 
+technique de tri et quoi de mieux qu'un programme qui le fait pour nous.
+
+Comment ça marche ?
+  Dans un premier temps le lancement du programme s'effectue depuis le script python en appuyant sur la touche f5 de votre calvier.
+Si vous ne possédez pas python ou un autre logiciel permettant de lire le script vous pouvez toujours lancer l'exécutable.
+Dans un second temps vous arrivez sur un jeu de cartes mélangé avec en haut a gauche 3 menus :
+  - "Trier les cartes"
+  - "Mélanger les cartes" 
+  - "A propos" 
+Le dernier menu ouvrant la page actuelle.
+
+Menu "Trier les cartes"
+	Par couleur croissante
+	  Permet le tri du ou des paquets présents par couleur en alternant rouge et noir et par numéro croissant.
+	Par couleur décroissante
+	  Permet le tri du ou des paquets présents par couleur en alternant rouge et noir et par numéro décroissant.
+	Par numéro croissant
+	  Permet le tri du ou des paquets présents en une ou deux lignes en triant par ordre croissant les cartes.
+	Par numéro décroissant
+	  Permet le tri du ou des paquets présents en une ou deux lignes en triant par ordre décroissant les cartes.
+	  
+Menu "Mélanger les cartes"
+	Mélanger un paquet
+	  Permet de mélanger un jeu de 52 cartes
+	Mélanger 2 paquets
+	  Permet de mélanger deux jeux de 52 cartes
+	Choisir aléatoirement
+	  Permet au programme de choisir aléatoirement entre le mélange d'un ou deux paquets de cartes
+
+Menu "A propos"
+	Affiche ce document, décrivant le projet et ses difficultés de réalisation et détaillant les options des menus.
+
+Difficultés rencontrées:
+  La première difficulté rencontrée fut l'affichage des cartes. Etant le premier programme utilisant une interface graphique que l'on code,
+tkinter était donc nouveau et un certain temps fut nécessaire pour le prendre en main.
+L'autre difficulté fut de trouver une méthode pour trier les cartes. Trouver la solution pris pas mal de temps
+bien qu'elle n'était pas compliqué à mettre en oeuvre après avoir pris connaisant d'une certaine méthode de tri de liste sous python.
+Au final ce projet nous aura pris environ 15 heures de réalisation.
+
+Projet réalisé par : -Leguille Loïc
+                     -Chenon Théo
+
+
